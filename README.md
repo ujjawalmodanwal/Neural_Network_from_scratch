@@ -1,4 +1,4 @@
-# Neural Network from Scratch#
+# Neural Network from Scratch
 
 I have successfully implemented the Neural Network from scratch in python.      
 **Modules used**: Numpy, Pandas, Maths, Scikit learn.
